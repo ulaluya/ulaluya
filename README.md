@@ -1,16 +1,43 @@
-## Hi there 👋
+### Привет! 👋 Я начинающий разработчик
 
-<!--
-**ulaluya/ulaluya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я увлечена созданием проектов и постоянно учусь новому. Мои навыки включают в себя работу с различными языками и инструментами.
 
-Here are some ideas to get you started:
+### 🛠 Мои навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Языки программирования:** HTML, CSS, JavaScript, Python, SQL, MS Visual C++, UML
+* **Инструменты и технологии:** Git, Mathcad, MATLAB, Linux, API Gateway, FTP, SSH
+* **Другие навыки:** QA, MS Office
+
+### 🎓 Образование
+
+* **Белорусская государственная академия связи** | Прикладная информатика | 3 курс
+
+
+### 🌐 Как со мной связаться
+
+* **Telegram:** @ulaluya
+* **Почта:** daskeviculia041@gmail.com
+
+---
+
+### Hi there! 👋 I'm a Junior Developer
+
+I'm passionate about building projects and constantly learning new things. My skills include working with various languages and tools.
+
+
+### 🛠 My Skills
+
+* **Programming Languages:** HTML, CSS, JavaScript, Python, SQL, MS Visual C++, UML
+* **Tools and Technologies:** Git, Mathcad, MATLAB, Linux, API Gateway, FTP, SSH
+* **Other Skills:** QA, MS Office
+
+
+### 🎓 Education
+
+* **Belarusian State Academy of Communications** | Applied Informatics | 3rd Year
+
+
+### 🌐 Contact Me
+
+* **Telegram:** @ulaluya
+* **Email:** daskeviculia041@gmail.com  
