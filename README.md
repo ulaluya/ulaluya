@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/RABOTA.BY-FF6600?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Rabota.by Badge"/>
   </a>
   <br/>
-  <a href="@ulaluya">
+  <a href="https://t.me/ulaluya">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
