@@ -85,6 +85,11 @@ I'm passionate about building projects and constantly learning new things. My sk
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+<br>
+<p dir="auto" style="
+    margin-top: 28px;
+"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/e4f59555cd84cdb73eb33f15d72f77e9943230d68abff51ee03eff77fb6c19ee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d756c616c757961266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulaluya&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;"></a></p>
+
 
 ### 🎓 Education
 
