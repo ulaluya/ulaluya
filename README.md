@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBqN2xhdThsdWpudnl4OHQ1YXVnNXVxOWRoODM3d3dnbXNiemVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ### Привет! 👋 Я начинающий разработчик
