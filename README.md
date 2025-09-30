@@ -1,5 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+</div>
+
+<div id="badges" style="float: right;">
+  <a href="ВАША_ССЫЛКА_НА_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br/>
+  <a href="ВАША_ССЫЛКА_НА_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+  <a href="ВАША_ССЫЛКА_НА_РЕЗЮМЕ_RABOTA.BY">
+    <img src="https://img.shields.io/badge/РЕЗЮМЕ-darkgreen?style=for-the-badge&logoColor=white" alt="Резюме rabota.by"/>
+  </a>
 </div>
 
 ### Привет! 👋 Я начинающий разработчик
