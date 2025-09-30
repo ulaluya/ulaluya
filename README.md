@@ -20,7 +20,7 @@
 ### 🌐 Как со мной связаться
 
 <div id="badges">
-  <a href="ВАША_ССЫЛКА_НА_РАБОТА.BY">
+  <a href="https://rabota.by/applicant/resumes">
     <img src="https://img.shields.io/badge/RABOTA.BY-FF6600?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Rabota.by Badge"/>
   </a>
   <br/>
