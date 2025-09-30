@@ -1,19 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
-</div>
-
-<div id="badges" style="float: right;">
-  <a href="ВАША_ССЫЛКА_НА_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br/>
-  <a href="ВАША_ССЫЛКА_НА_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <br/>
-  <a href="ВАША_ССЫЛКА_НА_РЕЗЮМЕ_RABOTA.BY">
-    <img src="https://img.shields.io/badge/РЕЗЮМЕ-darkgreen?style=for-the-badge&logoColor=white" alt="Резюме rabota.by"/>
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
 </div>
 
 ### Привет! 👋 Я начинающий разработчик
@@ -33,8 +19,19 @@
 
 ### 🌐 Как со мной связаться
 
-* **Telegram:** @ulaluya
-* **Почта:** daskeviculia041@gmail.com
+<div id="badges">
+  <a href="ВАША_ССЫЛКА_НА_РАБОТА.BY">
+    <img src="https://img.shields.io/badge/RABOTA.BY-FF6600?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Rabota.by Badge"/>
+  </a>
+  <br/>
+  <a href="@ulaluya">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+  <a href="mailto:ВАШ_АДРЕС_ЭЛЕКТРОННОЙ_ПОЧТЫ">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 ---
 
