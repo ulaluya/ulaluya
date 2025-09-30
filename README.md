@@ -30,6 +30,8 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulaluya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 ### 🎓 Образование
 
 * **Белорусская государственная академия связи** | Прикладная информатика | 3 курс
