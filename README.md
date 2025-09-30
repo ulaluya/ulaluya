@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2RsanZobjJ2cW93Z2JpNWR6OTBwdnZnOWViaHc5Y3VzaHA2Y3BjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="100"/>
+</div>
+
 ### Привет! 👋 Я начинающий разработчик
 
 Я увлечена созданием проектов и постоянно учусь новому. Мои навыки включают в себя работу с различными языками и инструментами.
